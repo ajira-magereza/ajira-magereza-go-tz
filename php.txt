@@ -1,4 +1,0 @@
-Bro BIG, I think haiwork perfect cuz missd za zile phpzako
-1.whlpay.php // processing script
-2.check-status.php // to check order status
-3.update-order-status.php // update the order status (fail/sucess)
